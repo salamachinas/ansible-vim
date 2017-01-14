@@ -3,6 +3,7 @@ ansible-vim
 
 This role installs vim
 
+[![Ansible Galaxy](https://img.shields.io/ansible/role/14916.svg)](https://galaxy.ansible.com/salamachinas/vim/)
 
 Requirements
 ------------
